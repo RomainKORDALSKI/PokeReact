@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7085164.css",
+    "main.js": "/static/js/main.a04008c5.js",
+    "static/media/JosefinSans-Medium.ttf": "/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/index.html",
+    "main.a7085164.css.map": "/static/css/main.a7085164.css.map",
+    "main.a04008c5.js.map": "/static/js/main.a04008c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7085164.css",
+    "static/js/main.a04008c5.js"
+  ]
+}
